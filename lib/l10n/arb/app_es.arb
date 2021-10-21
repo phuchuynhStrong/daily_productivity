@@ -1,0 +1,19 @@
+{
+    "@@locale": "es",
+    "counterAppBarTitle": "Contador",
+    "searchBarHint": "Search for text ...",
+    "@counterAppBarTitle": {
+        "description": "Texto mostrado en la AppBar de la página del contador"
+    },
+    "updateToPremium": "Update to Premium!",
+    "discount": "Discount 50%",
+    "welcomeToMyWorld": "Welcome to my world",
+    "androidker": "Androidker",
+    "todayTask": "Today Task",
+    "viewTask": "View Task",
+    "task": "Task",
+    "newTask": "New Task",
+    "fantastic": "Fantastic",
+    "myTracker": "My Tracker",
+    "viewDetail": "View Detail"
+}
